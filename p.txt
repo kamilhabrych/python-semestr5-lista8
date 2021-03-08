@@ -1,0 +1,8 @@
+To zostanie dodane do pliku!
+To będzie w nowej linijce
+Kamil Habrych
+Politechnika Opolska
+Python
+Języki programowania wysokiego poziomu
+Lista 8
+Semestr 5
