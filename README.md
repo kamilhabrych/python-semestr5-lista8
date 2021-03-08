@@ -1,6 +1,6 @@
 # Lista 8 - Języki programowania wysokiego poziomu
 
-**Python (14) - Pliki**
+**Python (8) - Pliki**
 
 (1) Operacje na plikach są możliwe dzięki obiektom plikowym, np:
 fo = open(’plik.txt’,’w’)
